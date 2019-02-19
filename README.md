@@ -6,3 +6,9 @@ These are parody images and are not associated with the actual [O'Reilly Media](
 Here is the [O RLY Cover Generator](http://dev.to/rly).
 
 These images can be used for non-commercial purposes under the [Attribution-NonCommercial 2.0 Generic](https://creativecommons.org/licenses/by-nc/2.0/)
+
+# Last checked date from reddit: 19th february 2019 
+
+# Included sites & social media profiles
+ - https://twitter.com/OreillyCover/media (lates publication 08thdezember2016)
+ 
